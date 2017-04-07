@@ -1,0 +1,195 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe.config
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroEmpleado.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroProducto.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.Pedido.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroCliente.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroProveedor.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroCargo.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaPrincipal.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaEmpleado.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaCargos.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaCompras.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaProductos.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaProveedor.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaCliente.resources
+C:\Users\Admin\Downloads\SistemaVentas2\SistemaVentas\bin\Debug\SistemaVentas.exe.config
+C:\Users\Admin\Downloads\SistemaVentas2\SistemaVentas\obj\Debug\SistemaVentas.exe
+C:\Users\Admin\Downloads\SistemaVentas2\SistemaVentas\obj\Debug\SistemaVentas.pdb
+C:\Users\Admin\Downloads\SistemaVentas2\SistemaVentas\bin\Debug\SistemaVentas.exe
+C:\Users\Admin\Downloads\SistemaVentas2\SistemaVentas\bin\Debug\SistemaVentas.pdb
+C:\Users\Admin\Downloads\SistemaVentas2\SistemaVentas\obj\Debug\SistemaVentas.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\SistemaVentas2\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroEmpleado.resources
+C:\Users\Admin\Downloads\SistemaVentas2\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroProducto.resources
+C:\Users\Admin\Downloads\SistemaVentas2\SistemaVentas\obj\Debug\WindowsFormsApplication1.Pedido.resources
+C:\Users\Admin\Downloads\SistemaVentas2\SistemaVentas\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Admin\Downloads\SistemaVentas2\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroCargo.resources
+C:\Users\Admin\Downloads\SistemaVentas2\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroCliente.resources
+C:\Users\Admin\Downloads\SistemaVentas2\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroProveedor.resources
+C:\Users\Admin\Downloads\SistemaVentas2\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaCargos.resources
+C:\Users\Admin\Downloads\SistemaVentas2\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaCliente.resources
+C:\Users\Admin\Downloads\SistemaVentas2\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaCompras.resources
+C:\Users\Admin\Downloads\SistemaVentas2\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaEmpleado.resources
+C:\Users\Admin\Downloads\SistemaVentas2\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaPrincipal.resources
+C:\Users\Admin\Downloads\SistemaVentas2\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaProductos.resources
+C:\Users\Admin\Downloads\SistemaVentas2\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaProveedor.resources
+C:\Users\Admin\Downloads\SistemaVentas2\SistemaVentas\obj\Debug\SistemaVentas.csproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\SistemaVentas2\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroMedida.resources
+C:\Users\PC\Documents\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe.config
+C:\Users\PC\Documents\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.exe
+C:\Users\PC\Documents\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.pdb
+C:\Users\PC\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe.config
+C:\Users\PC\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.exe
+C:\Users\PC\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.pdb
+C:\Users\PC\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe
+C:\Users\PC\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.pdb
+C:\Users\PC\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.ListarProductoVenta.resources
+C:\Users\PC\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroAlmacen.resources
+C:\Users\PC\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroEmpleado.resources
+C:\Users\PC\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroPrecio.resources
+C:\Users\PC\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroProducto.resources
+C:\Users\PC\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroStock.resources
+C:\Users\PC\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.Pedido.resources
+C:\Users\PC\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroCargo.resources
+C:\Users\PC\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroCliente.resources
+C:\Users\PC\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroMedida.resources
+C:\Users\PC\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroProveedor.resources
+C:\Users\PC\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaCargos.resources
+C:\Users\PC\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaCliente.resources
+C:\Users\PC\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaEmpleado.resources
+C:\Users\PC\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaPrincipal.resources
+C:\Users\PC\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaProductos.resources
+C:\Users\PC\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaProveedor.resources
+C:\Users\PC\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaAlmacen.resources
+C:\Users\PC\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.ReporteCliente.resources
+C:\Users\Admin\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe.config
+C:\Users\Admin\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.exe
+C:\Users\Admin\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.pdb
+C:\Users\Admin\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.ListarProductoVenta.resources
+C:\Users\Admin\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroAlmacen.resources
+C:\Users\Admin\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroEmpleado.resources
+C:\Users\Admin\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroPrecio.resources
+C:\Users\Admin\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroProducto.resources
+C:\Users\Admin\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroStock.resources
+C:\Users\Admin\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroVenta.resources
+C:\Users\Admin\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.ReporteCliente.resources
+C:\Users\Admin\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroCargo.resources
+C:\Users\Admin\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroCliente.resources
+C:\Users\Admin\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroMedida.resources
+C:\Users\Admin\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroProveedor.resources
+C:\Users\Admin\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaAlmacen.resources
+C:\Users\Admin\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaCargos.resources
+C:\Users\Admin\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaCliente.resources
+C:\Users\Admin\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaEmpleado.resources
+C:\Users\Admin\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaPrincipal.resources
+C:\Users\Admin\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaProductos.resources
+C:\Users\Admin\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaProveedor.resources
+C:\Users\Admin\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe
+C:\Users\Admin\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.pdb
+C:\Users\Admin\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.ListadoProductos.resources
+C:\Users\Admin\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\RdlCompile.cache
+C:\Users\Admin\Documents\GitHub\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\RdlCompile.compiled
+D:\ss\SistemaVenta\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe.config
+D:\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.exe
+D:\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.pdb
+D:\ss\SistemaVenta\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe
+D:\ss\SistemaVenta\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.pdb
+D:\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csprojResolveAssemblyReference.cache
+D:\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.ListadoProductos.resources
+D:\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.ListarProductoVenta.resources
+D:\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroAlmacen.resources
+D:\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroEmpleado.resources
+D:\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroPrecio.resources
+D:\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroProducto.resources
+D:\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroStock.resources
+D:\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroVenta.resources
+D:\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.ReporteCliente.resources
+D:\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroCargo.resources
+D:\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroCliente.resources
+D:\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroMedida.resources
+D:\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroProveedor.resources
+D:\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaAlmacen.resources
+D:\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaCargos.resources
+D:\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaCliente.resources
+D:\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaEmpleado.resources
+D:\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaPrincipal.resources
+D:\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaProductos.resources
+D:\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaProveedor.resources
+D:\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.GenerateResource.Cache
+D:\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\RdlCompile.cache
+D:\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\RdlCompile.compiled
+F:\ult\ss\SistemaVenta\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe.config
+F:\ult\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.exe
+F:\ult\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.pdb
+F:\ult\ss\SistemaVenta\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe
+F:\ult\ss\SistemaVenta\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.pdb
+F:\ult\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csprojResolveAssemblyReference.cache
+F:\ult\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.ListadoProductos.resources
+F:\ult\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.ListarProductoVenta.resources
+F:\ult\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroAlmacen.resources
+F:\ult\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroEmpleado.resources
+F:\ult\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroPrecio.resources
+F:\ult\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroProducto.resources
+F:\ult\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroStock.resources
+F:\ult\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroVenta.resources
+F:\ult\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.ReporteCliente.resources
+F:\ult\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\ult\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroCargo.resources
+F:\ult\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroCliente.resources
+F:\ult\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroMedida.resources
+F:\ult\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroProveedor.resources
+F:\ult\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaAlmacen.resources
+F:\ult\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaCargos.resources
+F:\ult\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaCliente.resources
+F:\ult\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaEmpleado.resources
+F:\ult\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaPrincipal.resources
+F:\ult\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaProductos.resources
+F:\ult\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaProveedor.resources
+F:\ult\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.GenerateResource.Cache
+F:\ult\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\RdlCompile.cache
+F:\ult\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\RdlCompile.compiled
+F:\ult\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.LoginEmpleado.resources
+D:\bac\ss\SistemaVenta\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe.config
+D:\bac\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.exe
+D:\bac\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.pdb
+D:\bac\ss\SistemaVenta\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe
+D:\bac\ss\SistemaVenta\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.pdb
+D:\bac\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csprojResolveAssemblyReference.cache
+D:\bac\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.ListadoProductos.resources
+D:\bac\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.ListarProductoVenta.resources
+D:\bac\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.LoginEmpleado.resources
+D:\bac\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroAlmacen.resources
+D:\bac\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroEmpleado.resources
+D:\bac\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroPrecio.resources
+D:\bac\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroProducto.resources
+D:\bac\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroStock.resources
+D:\bac\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroVenta.resources
+D:\bac\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.ReporteCliente.resources
+D:\bac\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\bac\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroCargo.resources
+D:\bac\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroCliente.resources
+D:\bac\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroMedida.resources
+D:\bac\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.RegistroProveedor.resources
+D:\bac\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaAlmacen.resources
+D:\bac\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaCargos.resources
+D:\bac\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaCliente.resources
+D:\bac\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaEmpleado.resources
+D:\bac\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaPrincipal.resources
+D:\bac\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaProductos.resources
+D:\bac\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\WindowsFormsApplication1.VentanaProveedor.resources
+D:\bac\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.GenerateResource.Cache
+D:\bac\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\RdlCompile.cache
+D:\bac\ss\SistemaVenta\SistemaVentas\SistemaVentas\obj\Debug\RdlCompile.compiled
